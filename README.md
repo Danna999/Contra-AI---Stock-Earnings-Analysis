@@ -38,7 +38,7 @@ An AI-powered application for analyzing post-earnings market sentiment of US sto
 ![Chart](screenshots/chart.png)
 
 ### Earnings Calendar
-![Earnings Calendar](screenshots/earnings calendar.png)
+![Earnings Calendar](screenshots/earnings-calendar.png)
 
 ## Getting Started
 
