@@ -26,6 +26,20 @@ An AI-powered application for analyzing post-earnings market sentiment of US sto
 - 🎨 **Modern UI** - Built with shadcn/ui components and Tailwind CSS
 - 🔎 **Smart Autosuggestion** - Stock ticker search with autocomplete
 
+## 📸 Demo
+
+### Home
+![Home](screenshots/home.png)
+
+### AI Analysis
+![Chat](screenshots/chat.png)
+
+### Stock Chart
+![Chart](screenshots/chart.png)
+
+### Earnings Calendar
+![Earnings Calendar](screenshots/earnings calendar.png)
+
 ## Getting Started
 
 ### Prerequisites
